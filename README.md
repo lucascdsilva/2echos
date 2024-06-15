@@ -1,2 +1,2 @@
 # 2echos
-Modelo de auto organização de nós em rede no simulador contiki 3 cooja
+Demostração da utilização de 2 mensagens de broadcast para auto-organização de nós em rede no simulador cooja do contiki 3.
